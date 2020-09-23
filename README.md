@@ -3,4 +3,4 @@ First version of Java JDBC SQL project.
 
 This project contains basic SQL commands using Java JDBC driver, like Select, Update, Insert, Bulk Insert and Delete query.
 
-Advanced tasks will folow soon.
+Advanced tasks will follow soon.
