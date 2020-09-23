@@ -1,2 +1,4 @@
 # perform_JBDC_task_v1
 Implementing Java JDBC SQL 
+
+This project contains basic SQL commands using Java JDBC driver, like Select, Update, Insert, Bulk Insert and Delete query.
